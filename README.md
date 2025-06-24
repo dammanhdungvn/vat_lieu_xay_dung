@@ -207,6 +207,7 @@ vat_lieu_xay_dung/
 
 ### Admin
 1. Đăng nhập admin: `admin/admin_login.php`
+   - username: admin | password: admin123  
 2. Dashboard: `admin/dashboard.php`
 3. Quản lý sản phẩm: `admin/products/index.php`
 4. Quản lý đơn hàng: `admin/orders/index.php`
